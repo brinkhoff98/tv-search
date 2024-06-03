@@ -1,0 +1,16 @@
+/.next
+
+
+.env.development
+.env.local
+
+/node_modules
+
+
+/build
+
+lib/utils/authHelper.ts
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
